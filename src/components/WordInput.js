@@ -14,5 +14,3 @@ export const ParagraphInput = ({ pRef }) => {
         </>
     )
 }
-Footer
-© 2022 GitHub, 
